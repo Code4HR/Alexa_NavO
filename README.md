@@ -3,6 +3,17 @@
 
 NAV-O short for Navigation Officer is an Alexa Skill that leverages public available water-level data from the United State's network of Tide Stations to provide information on the current tide.
 
+## Contributing
+
+Code4HR welcomes contributions for these projects, if you're interested in contributing here's how you can start:
+
+1. Fork this repository to your own Github account.
+2. Clone the repository to your computer.
+3. In your terminal, `cd` to the repository and run `git remote add upstream https://github.com/Code4HR/Alexa_NavO.git`
+4. Make your changes.
+5. When finished with changes, `push` to your repository and then create a `pull request` to the Code4HR repository.
+6. We'll review your changes and merge. Thanks!
+
 ## Features Plan
 
 **Version 0.1**
