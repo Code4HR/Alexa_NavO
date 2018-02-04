@@ -52,3 +52,10 @@ jspm_packages
 .serverless
 
 src/config.js
+
+# jshint configuration
+.jshintrc
+
+# Webstorm
+.idea 
+.idea/

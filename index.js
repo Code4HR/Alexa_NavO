@@ -1,8 +1,17 @@
 'use strict';
 
 /**
- * This is a simple file that aliases your skill handler to a root
- * level file so that you don't have to tinker with Lambda handler paths.
+ *
+ *  NAV-O
+ *  An Alexa Skill for Accessing Public US Tide Data
+ *
+ *  Code for Hampton Roads
+ *  See LICENSE.txt for License
+ */
+
+
+/**
+ * Alias skill handler to root.
  * This will make the default lambda value of "index.handler" work.
  */
 

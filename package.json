@@ -1,7 +1,7 @@
 {
-  "name": "alexa-pressure-check",
-  "version": "1.0.0",
-  "description": "An Alexa skill for ",
+  "name": "alexa-nav-o",
+  "version": "0.1.0",
+  "description": "An Alexa skill to obtain information on the current water level at US water level stations. ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,14 +11,19 @@
     "skill",
     "settings"
   ],
-  "author": "NTG Consulting",
+  "author": "Jason Wilson - Code4HR",
   "license": "SEE LICENSE IN LICENSE.txt",
   "dependencies": {
-    "alexa-sdk": "^1.0.8",
-    "wundergroundnode": "0.11.0"
+    "alexa-sdk": "^1.0.24",
+    "fuse.js": "^3.2.0",
+    "request": "^2.83.0"
   },
   "repository": {
     "type": "git",
     "url": ""
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5",
+    "serverless-mocha-plugin": "^1.7.0"
   }
 }
