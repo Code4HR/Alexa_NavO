@@ -59,3 +59,9 @@ src/config.js
 # Webstorm
 .idea 
 .idea/
+
+# VS Code Settings
+.vscode
+
+# Station Data Sources
+utils/*.js
